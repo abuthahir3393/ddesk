@@ -1508,7 +1508,7 @@ section {
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
-  margin-left: 100px
+ 
 }
 
 #footer .footer-top {
@@ -1545,8 +1545,8 @@ section {
   background: #333;
   color: #eee;
   line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
+  padding: 20px 0;
+  margin-right: 20px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
