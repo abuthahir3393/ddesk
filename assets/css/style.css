@@ -1588,6 +1588,7 @@ section {
 
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
+  margin-left:100px;
 }
 
 #footer .footer-top .footer-links ul {
@@ -1620,6 +1621,7 @@ section {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+  margin-left:100px;
 }
 
 #footer .footer-top .footer-contact p {
